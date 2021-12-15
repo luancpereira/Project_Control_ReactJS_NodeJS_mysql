@@ -45,5 +45,3 @@ function Clima() {
 }
 
 export default Clima;
-
-// url = "https://weather.contrateumdev.com.br/api/weather/city/?city={},{}".format(cidade,estado)
